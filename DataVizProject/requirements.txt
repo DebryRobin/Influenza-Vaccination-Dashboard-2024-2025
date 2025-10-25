@@ -1,0 +1,6 @@
+streamlit>=1.33
+pandas>=2.0
+numpy>=1.20
+geopandas>=1.1
+altair>=5.0
+plotly>=5.0
