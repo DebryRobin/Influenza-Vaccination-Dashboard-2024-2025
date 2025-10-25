@@ -1,5 +1,7 @@
 # Influenza Vaccination Dashboard 2024–2025
 
+You can view the live dashboard here: [Streamlit App](https://influenza-vaccination-dashboard-2024-2025.streamlit.app/)
+
 ## Overview
 
 This Streamlit app transforms open-data on flu vaccinations into an interactive, narrative-driven dashboard.
